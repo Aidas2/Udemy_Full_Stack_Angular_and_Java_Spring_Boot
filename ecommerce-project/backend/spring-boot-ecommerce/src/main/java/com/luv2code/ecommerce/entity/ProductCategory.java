@@ -11,7 +11,7 @@ import java.util.Set;
 // @Data -- known bug
 @Getter
 @Setter
-public class   ProductCategory {
+public class ProductCategory {
 
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)

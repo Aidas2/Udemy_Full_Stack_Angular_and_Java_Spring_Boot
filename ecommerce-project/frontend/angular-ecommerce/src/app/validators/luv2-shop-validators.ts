@@ -13,8 +13,7 @@ export class Luv2ShopValidators {
         }
         else {
             // valid, return null
-            // return null;
-            return { notOnlyWhitespace: false };
+            return null as any;
         }
     }
 }

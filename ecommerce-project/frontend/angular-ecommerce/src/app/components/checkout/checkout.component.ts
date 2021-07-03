@@ -132,6 +132,7 @@ export class CheckoutComponent implements OnInit {
 
   }
 
+  // getters for validators:
   get firstName(): any { return this.checkoutFormGroup.get('customer.firstName'); }
   get lastName() { return this.checkoutFormGroup.get('customer.lastName'); }
   get email() { return this.checkoutFormGroup.get('customer.email'); }
