@@ -1,8 +1,8 @@
 {
    "customer":{
-      "firstName":"afasa",
-      "lastName":"afasa",
-      "email":"afasa@test.com"
+      "firstName":"Susan",
+      "lastName":"Smith",
+      "email":"susan.smith@test.com"
    },
    "shippingAddress":{
       "street":"afasa",
